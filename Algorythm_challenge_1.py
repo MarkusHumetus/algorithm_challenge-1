@@ -26,6 +26,6 @@ while check ==False:
                                             check = True
 
 print ('* ' *55,'\n')
-rint (f'The smallest number that cais divisible by all numbers from 20 to 1 (both included) is {i}.\n')
+print (f'The smallest number which is divisible by all numbers from 20 to 1 (both included) is {i}.\n')
 print ('* ' *55,'\n')
 
